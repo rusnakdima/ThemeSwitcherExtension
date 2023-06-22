@@ -14,6 +14,10 @@ Go to the website and press Ctrl+Alt+Z for a light theme and Ctrl+Alt+X for a da
 
 - [Dmitriy303](https://github.com/rusnakdima)
 
+## License
+
+This project is licensed under the [License Name](LICENSE.MD).
+
 ## Contact
 
 If you have any questions or comments about this project, please feel free to contact us at [contact email](rusnakdima03@gmail.com).
